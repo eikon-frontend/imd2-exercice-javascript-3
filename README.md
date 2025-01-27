@@ -31,4 +31,4 @@ Faire en sorte que l'on puisse rechercher dans les articles de blog, comme sur l
 
 ## Aperçu du résultat
 
-![](screenshot.mp4)
+![](screenshot.gif)
